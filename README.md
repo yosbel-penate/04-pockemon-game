@@ -22,3 +22,7 @@ yarn test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+Demo
+https://fullyknow-pokemon.netlify.app/
+Host site
+https://app.netlify.com/
